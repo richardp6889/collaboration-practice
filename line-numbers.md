@@ -4,9 +4,9 @@
 #### 4
 #### 5 Hi
 #### 6
-#### 7 Water in a bottle 
+#### 7 Water in a bottle
 #### 8
-#### 9
+#### 9 GitHub is awesome.
 #### 10
 #### 11
 #### 12
